@@ -1,0 +1,4 @@
+A line of text
+Another line of text
+A newly appended line of text
+Here is a new line added using with
